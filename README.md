@@ -1,6 +1,6 @@
 # CartoonFaceGAN: A Study on Cartoon Face Generation Using Layer Swap, Distillation based StyleGAN2-ADA
 
-![paper]("https://drive.google.com/file/d/1bx59o9wM-2RqrmdMjPv0Ux68aVUH8Uu7/view")
+[paper]("https://drive.google.com/file/d/1bx59o9wM-2RqrmdMjPv0Ux68aVUH8Uu7/view")
 
 Image to Image(I2I) Translation 이란 입력 이미지들을 특정 domain의 이미지로 변환하는 task이다. Input, Output 이미지들을 mapping 하는 것이 목적인 생성 모델 분야 중 하나이다. I2I 분야에서는 StyleGAN2-ADA 모델을 베이스
 라인으로 사용하며, 이는 Mapping Network를 통해 Age, Gender, Smile과 같은 이미지의 Facial Attribute를 구분할 수 있다. 본 연구에서는 Cartoon 스타일을 적용한 StyleGAN2-ADA 기반의 얼굴 이미지 생성 모델을 제안한다. Layer Swap으로
